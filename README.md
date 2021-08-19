@@ -19,8 +19,8 @@
   </div>
   <div>
   <p>
-    <img src="https://c.tenor.com/vOPwrfPETqoAAAAC/dazai-osamu.gif" align="left">
-    <h2 align="right">               ~~in search of new knowledge!!~~</h2>
+    <img src="https://c.tenor.com/vOPwrfPETqoAAAAC/dazai-osamu.gif" align="center">
+    <h2 align="right"> ~~in search of new knowledge!!~~</h2>
     <img src="https://thumbs.gfycat.com/FittingBountifulIsopod-max-1mb.gif" align="right">
   </div>
   <div>
@@ -30,7 +30,7 @@
   </p>
   <br>
   <h2>                           🌌｡ 😉  𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮   ｡🌌 </h2>
-  <img src="https://64.media.tumblr.com/7a1222f6019e52bb5ed2e9ca6a6c207a/0811ecc87cbe63af-5f/s2048x3072/b1cc33657ac2c15a9e22978fd617ec890f6d66b2.gif" align="right" width="373.5px" height="208.5px">
+  <img src="https://64.media.tumblr.com/7a1222f6019e52bb5ed2e9ca6a6c207a/0811ecc87cbe63af-5f/s2048x3072/b1cc33657ac2c15a9e22978fd617ec890f6d66b2.gif" align="center" width="373.5px" height="208.5px">
 <br>
 <p align="center"><b>(っ◔◡◔)っ ♥ Aqui esta as redes sociais que eu ultilizo ♥</p>
 <p align="center"><a href="https://twitter.com/MoratoSan91" target="_blank"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="30rem" height="29rem" align="center"/><br>
